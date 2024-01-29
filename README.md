@@ -1,2 +1,2 @@
-# kubernates_helm
+# kubernates
 Codice Chart di K8s
